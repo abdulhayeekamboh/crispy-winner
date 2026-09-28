@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_keypad" android:icon="@android:drawable/ic_menu_call" android:title="Keypad" />
+    <item android:id="@+id/nav_recents" android:icon="@android:drawable/ic_menu_recent_history" android:title="Recents" />
+    <item android:id="@+id/nav_contacts" android:icon="@android:drawable/ic_menu_agenda" android:title="Contacts" />
+    <item android:id="@+id/nav_recordings" android:icon="@android:drawable/ic_btn_speak_now" android:title="Recordings" />
+</menu>
